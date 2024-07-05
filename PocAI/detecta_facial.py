@@ -4,9 +4,9 @@ import cv2
 import requests
 
 # Substitua pelas suas informações da API da Azure
-PREDICTION_KEY  = 'a56e35e5f36f4adc9a1c578166ee364e'
-ENDPOINT  = 'https://faceiapoc-prediction.cognitiveservices.azure.com/'
-PROJECT_ID  = '4a6db0fd-e69c-4c35-9418-7f4739df8117'
+PREDICTION_KEY  = ''
+ENDPOINT  = ''
+PROJECT_ID  = ''
 PUBLISHED_NAME  = 'TaskFace'
 
 class App:
